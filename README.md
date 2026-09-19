@@ -73,6 +73,7 @@ Pencarian dapat dilakukan berdasarkan ID, nama produk, atau kategori.
 ---
 
 ## 4. Struktur Project
+ ```text
 product-information-system/
 │
 ├── Asset/
@@ -85,6 +86,7 @@ product-information-system/
 ├── functions.php
 ├── index.php
 └── README.md
+```
 
 ### Pembagian Layer
 
