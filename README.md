@@ -36,7 +36,8 @@ Project ini dibuat untuk menerapkan konsep yang telah dipelajari pada Pemrograma
 
 ### Dashboard
 
-![Dashboard Product Information System](Asset/dashboard.png)
+<img width="1214" height="645" alt="image" src="https://github.com/user-attachments/assets/b0e7f551-528c-437b-b51a-84dc5e8bf4eb" />
+
 
 Dashboard menampilkan informasi yang dihitung secara otomatis dari data produk:
 
@@ -47,7 +48,8 @@ Dashboard menampilkan informasi yang dihitung secara otomatis dari data produk:
 
 ### Tabel Produk
 
-![Tabel Produk](Asset/product-table.png)
+<img width="1020" height="349" alt="image" src="https://github.com/user-attachments/assets/2fb1099e-7080-4fe0-a7da-46b3682ca7e2" />
+
 
 Tabel menampilkan:
 
@@ -63,7 +65,8 @@ Produk dengan stok kurang dari 3 akan diberikan penanda **Stok Kritis**.
 
 ### Pencarian Produk
 
-![Pencarian Produk](Asset/search.png)
+<img width="1013" height="87" alt="image" src="https://github.com/user-attachments/assets/76ffda46-afb2-43d8-91e5-d43d9cda7353" />
+
 
 Pencarian dapat dilakukan berdasarkan ID, nama produk, atau kategori.
 
