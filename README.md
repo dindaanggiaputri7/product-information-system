@@ -172,5 +172,7 @@ Fitur tersebut merupakan rencana pengembangan dan belum termasuk dalam versi Min
 
 Author
 Dinda Anggia Putri
+
 Program Studi Sistem Informasi
+
 Universitas Malikussaleh
