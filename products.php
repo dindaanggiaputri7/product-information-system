@@ -1,50 +1,53 @@
 <?php
 
-$katalog = [
+// products.php - Data Layer Produk
+
+$katalogProduk = [
+
     [
         "id" => "P001",
-        "nama" => "Mouse Wireless",
-        "kategori" => "Tech",
-        "harga" => 125000,
-        "stok" => 4,
-        "deskripsi" => "Mouse wireless untuk kebutuhan komputer"
+        "nama" => "Laptop Asus ROG",
+        "kategori" => "Electronics",
+        "harga" => 15000000,
+        "stok" => 5,
+        "deskripsi" => "Laptop gaming performa tinggi."
     ],
 
     [
         "id" => "P002",
-        "nama" => "Keyboard Mechanical",
-        "kategori" => "Tech",
-        "harga" => 350000,
+        "nama" => "Mouse Wireless Logitech",
+        "kategori" => "Accessories",
+        "harga" => 250000,
         "stok" => 2,
-        "deskripsi" => "Keyboard mechanical untuk mengetik"
+        "deskripsi" => "Mouse ergonomis tanpa kabel."
     ],
 
     [
         "id" => "P003",
-        "nama" => "Notebook A5",
-        "kategori" => "Stationery",
-        "harga" => 25000,
-        "stok" => 10,
-        "deskripsi" => "Notebook ukuran A5 untuk mencatat"
+        "nama" => "Mechanical Keyboard",
+        "kategori" => "Accessories",
+        "harga" => 750000,
+        "stok" => 12,
+        "deskripsi" => "Keyboard RGB switch blue."
     ],
 
     [
         "id" => "P004",
-        "nama" => "Flashdisk 64GB",
-        "kategori" => "Tech",
-        "harga" => 85000,
+        "nama" => "Monitor 24 Inch IPS",
+        "kategori" => "Electronics",
+        "harga" => 2100000,
         "stok" => 1,
-        "deskripsi" => "Flashdisk kapasitas 64GB"
+        "deskripsi" => "Monitor jernih untuk desain & kerja."
     ],
 
     [
         "id" => "P005",
-        "nama" => "Tas Laptop",
-        "kategori" => "Apparel",
-        "harga" => 175000,
-        "stok" => 6,
-        "deskripsi" => "Tas laptop untuk membawa perangkat"
+        "nama" => "Keyboard Mechanical RGB",
+        "kategori" => "Accessories",
+        "harga" => 750000,
+        "stok" => 8,
+        "deskripsi" => "Keyboard gaming dengan switch blue yang responsif."
     ]
-];
 
+];
 ?>
