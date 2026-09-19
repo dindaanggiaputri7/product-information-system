@@ -73,8 +73,6 @@ Pencarian dapat dilakukan berdasarkan ID, nama produk, atau kategori.
 ---
 
 ## 4. Struktur Project
-
-```text
 product-information-system/
 │
 ├── Asset/
@@ -88,12 +86,14 @@ product-information-system/
 ├── index.php
 └── README.md
 
-Pembagian Layer
-File            	Layer                 	Fungsi
-config.php	      Configuration         	Menyimpan konfigurasi aplikasi
-products.php	    Data	                  Menyimpan data produk
-functions.php	    Processing	            Mengolah dan menghitung data
-index.php	        Presentation	          Menampilkan hasil ke halaman web
+### Pembagian Layer
+
+| File | Layer | Fungsi |
+| :--- | :--- | :--- |
+| `config.php` | Configuration | Menyimpan konfigurasi aplikasi |
+| `products.php` | Data | Menyimpan data produk |
+| `functions.php` | Processing | Mengolah dan menghitung data |
+| `index.php` | Presentation | Menampilkan halaman utama (UI) |
 
 5. Fitur Utama
 Dashboard
