@@ -136,7 +136,7 @@ Total Stok     : 20 Unit
 Nilai Aset     : Rp86.600.000
 Stok Kritis    : 2 Produk
 
-##7. Konsep PHP yang Diterapkan
+## 7. Konsep PHP yang Diterapkan
 
 Project menggunakan:
 Array Multidimensi untuk menyimpan data produk.
@@ -147,7 +147,7 @@ require_once untuk menghubungkan file PHP.
 htmlspecialchars() untuk membantu menjaga keamanan output HTML.
 Server-Side Rendering untuk memproses data menggunakan PHP sebelum ditampilkan pada browser.
 
-##8. Cara Menjalankan
+## 8. Cara Menjalankan
 Pastikan XAMPP sudah terpasang.
 Aktifkan Apache pada XAMPP.
 
