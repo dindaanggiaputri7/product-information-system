@@ -170,9 +170,3 @@ Manajemen stok yang lebih lengkap
 
 Fitur tersebut merupakan rencana pengembangan dan belum termasuk dalam versi Mini Project 1 saat ini.
 
-Author
-Dinda Anggia Putri
-
-Program Studi Sistem Informasi
-
-Universitas Malikussaleh
